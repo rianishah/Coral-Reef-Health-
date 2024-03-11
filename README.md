@@ -1,4 +1,4 @@
-# Coral-Reef-Health-Visulation-Project
+# Coral-Reef-Health-Visualization-Project
 
 # Overview
 
